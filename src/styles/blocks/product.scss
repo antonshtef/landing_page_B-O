@@ -2,7 +2,7 @@
   &__photo {
     width: 100%;
 
-    transition: transform $effectDuration;
+    transition: transform $effect-duration;
 
     &:hover {
       transform: scale(1.05);
